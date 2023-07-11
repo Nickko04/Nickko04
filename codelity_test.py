@@ -1,3 +1,4 @@
+#there are n numbered from 0 to n-1 playing a game . the k th person is assigned the letter s[k] at the beginning 0th person send the message......
 s = "cdeenetpi" 
 a = [5,2,0,1,6,4,8,3,7]
 msg = ""
