@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Nickko04
+- Big Data analyst (Distributed data + streams)
 - 👀 I’m interested in Devops and Automation
 - 🌱 I’m currently learning Kubeflow
+- Cloud Architect and design (GCP+AZURE+AWS)
 - 💞️ I’m looking to collaborate on ML and Tensorboard
 - 📫 How to reach me sharma.vw@gmail.com
 
